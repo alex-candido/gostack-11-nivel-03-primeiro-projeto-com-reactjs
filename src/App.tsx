@@ -1,15 +1,15 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import NestedRoutes from './routes';
+import { BrowserRouter } from 'react-router-dom';
+import Router from './routes';
+import GlobalStyle from './styles/global';
 
 const App: React.FC = () => {
   return (
-    <div>
+    <>
       <BrowserRouter>
-        <Routes>
-          <Route path="/*" element={<NestedRoutes />} />
-        </Routes>
+        <Router />
       </BrowserRouter>
-    </div>
+      <GlobalStyle />
+    </>
   );
 };
 

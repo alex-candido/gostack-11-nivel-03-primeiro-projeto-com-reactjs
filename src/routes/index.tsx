@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom';
 import Dashboard from '../pages/Dashboard';
 import Repository from '../pages/Repository';
 
-const NestedRoutes: React.FC = () => {
+const Router: React.FC = () => {
   return (
     <div>
       <Routes>
@@ -13,4 +13,4 @@ const NestedRoutes: React.FC = () => {
   );
 };
 
-export default NestedRoutes;
+export default Router;
