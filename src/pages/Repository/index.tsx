@@ -1,5 +1,12 @@
+import { useParams } from 'react-router-dom';
+
 const Repository: React.FC = () => {
-  return <h1>Repository</h1>;
+  const { repository } = useParams();
+  return (
+    <div>
+      <h1>Repository: {repository}</h1>
+    </div>
+  );
 };
 
 export default Repository;
