@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+<img alt="GoStack" src="/src/assets/logo-github-explorer.svg" />
 
 # Primeiro projeto com React.Js - GitHub Explorer
 
