@@ -1,8 +1,8 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
-# Primeiro projeto com React.Js (2022!)
+# Primeiro projeto com React.Js - GitHub Explorer
 
-GitHub Explorer é uma aplicação web para consulta de repositórios cadastrados no github. A aplicação se baseia no consumo da api "https://api.github.com", onde é realizado a listagem e o relatório de informações do repositório. 
+GitHub Explorer é uma aplicação web para consulta de repositórios cadastrados no github. A aplicação se baseia no consumo da api https://api.github.com, onde é realizado a listagem e o relatório de informações do repositório. 
 
 Suas abordagens envolve padronização de projetos React, estruturas de pastas, Style Components, React Routes, consumo de APIs externas, Typescript, além de Ferramentas como ESLint, Prettier e EditorConfig.  [Primeiro Projeto com Node.js](https://github.com/alex-candido/nivel-02-primeiro-projeto-com-nodejs).
 
