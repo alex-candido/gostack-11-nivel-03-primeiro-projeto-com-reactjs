@@ -6,7 +6,10 @@ const Router: React.FC = () => {
   return (
     <Routes>
       <Route path="/" element={<Dashboard />} />
-      <Route path="repository/:repository/*" element={<Repository />} />
+      <Route
+        path="repository/:repositoryaccount/:repositoryname"
+        element={<Repository />}
+      />
     </Routes>
   );
 };
