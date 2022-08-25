@@ -54,6 +54,14 @@
           "namedComponents": ["arrow-function", "function-declaration"],
           "unnamedComponents": "arrow-function"
         }
+      ],
+      "react/jsx-no-bind": "off",
+      "import/prefer-default-export": "off",
+      "@typescript-eslint/explicit-function-return-type": [
+        "error",
+        {
+          "allowExpressions": true
+        }
       ]
     },
     "settings": {
