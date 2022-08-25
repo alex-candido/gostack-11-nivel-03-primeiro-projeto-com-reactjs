@@ -1,4 +1,4 @@
-<img alt="GoStack" src="/src/assets/logo-github-explorer.svg" />
+<img alt="GoStack" src="/src/assets/github-explorer.png" />
 
 # Primeiro projeto com React.Js - GitHub Explorer
 
