@@ -4,7 +4,7 @@
 
 GitHub Explorer é uma aplicação web para consulta de repositórios cadastrados no github. A aplicação se baseia no consumo da api https://api.github.com, onde é realizado a listagem e o relatório de informações do repositório. 
 
-Suas abordagens envolve padronização de projetos React, estruturas de pastas, Style Components, React Routes, consumo de APIs externas, Typescript, além de Ferramentas como ESLint, Prettier e EditorConfig. Acesse [GitHub Explorer](github-explorer-reactjs.netlify.app).
+Suas abordagens envolve padronização de projetos React, estruturas de pastas, Style Components, React Routes, consumo de APIs externas, Typescript, além de Ferramentas como ESLint, Prettier e EditorConfig. Acesse [GitHub Explorer](https://github-explorer-reactjs.netlify.app/).
 
 ## 🚀 Abordagens
 
