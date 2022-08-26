@@ -1,6 +1,6 @@
 <img alt="GoStack" src="/src/assets/github-explorer.png" />
 
-# Primeiro projeto com React.Js - GitHub Explorer
+# Primeiro projeto com ReactJS - GitHub Explorer
 
 GitHub Explorer é uma aplicação web para consulta de repositórios cadastrados no github. A aplicação se baseia no consumo da api https://api.github.com, onde é realizado a listagem e o relatório de informações do repositório. 
 
