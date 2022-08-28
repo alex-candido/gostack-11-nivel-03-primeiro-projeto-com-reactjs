@@ -9,7 +9,7 @@ Suas abordagens envolve padronização de projetos React, estruturas de pastas, 
 ## 🚀 Abordagens
 
 - Configurando a versão inicial do projeto
-- onfigurando padrões de projeto com ESLint, Prettier e EditorConfig
+- Configurando padrões de projeto com ESLint, Prettier e EditorConfig
 - Criando Rotas
 - Utilizando Styled Components
 - Estilizando Dashboard
